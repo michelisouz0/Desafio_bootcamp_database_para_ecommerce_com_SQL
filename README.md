@@ -5,7 +5,8 @@ Desafio de Projeto da DIO
 Criação de uma base de dados de e-commerce no MySQL com expressões que geram atributos derivados.
 
 ## Descrição 
-Em 'Script_desafio_SQL' está a database com mais de 10 tabelas: client, product, payment_method, orders, payments, delivery, productStorage, supplier, productSupplier, seller, productSeller, productOrder e storageLocation; além de expressões que geram atributos derivados, como: relação entre clientes e produtos e relação de produtos, fornecedores e estoques. No arquivo 'Script_preenchimento_de_dados_na_database' estão os dados para serem inseridos nas tabelas criadas por meio do script anterior.
+Em 'Script_desafio_SQL' está a database com mais de 10 tabelas: client, product, payment_method, orders, payments, delivery, productStorage, supplier, productSupplier, seller, productSeller, productOrder e storageLocation; além de expressões que geram atributos derivados, como: relação entre clientes e produtos e relação de produtos, fornecedores e estoques. 
+No arquivo 'Script_preenchimento_de_dados_na_database' estão os dados para serem inseridos nas tabelas criadas por meio do script anterior.
 
 ## Funcionalidades
 - Recuperações simples de dados;
